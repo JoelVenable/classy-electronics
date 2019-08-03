@@ -5,7 +5,7 @@ using classy_electronics.Interfaces;
 
 namespace classy_electronics.Models
 {
-    class BasicCDPlayer :IHasCDPlayer
+    class BasicCDPlayer : IHasCDPlayer
     {
         public int TotalTracks { get; set; }
         public int CurrentTrack { get; private set; }

@@ -5,9 +5,9 @@ using classy_electronics.Interfaces;
 
 namespace classy_electronics.Models
 {
-    class SpeakinatorTable : TurnTable, IHasSpeaker
+    class BasicSpeaker : IHasSpeaker
     {
-        public int Volume { get; private set; }
+        public int Volume { get; private set; };
 
         public void VolumeUp()
         {

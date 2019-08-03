@@ -1,0 +1,4 @@
+C:\Users\Joel\Documents\workspace\backend\classy-electronics\obj\Debug\netcoreapp2.2\classy-electronics.csprojAssemblyReference.cache
+C:\Users\Joel\Documents\workspace\backend\classy-electronics\obj\Debug\netcoreapp2.2\classy-electronics.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Documents\workspace\backend\classy-electronics\obj\Debug\netcoreapp2.2\classy-electronics.AssemblyInfoInputs.cache
+C:\Users\Joel\Documents\workspace\backend\classy-electronics\obj\Debug\netcoreapp2.2\classy-electronics.AssemblyInfo.cs

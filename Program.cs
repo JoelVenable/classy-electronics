@@ -16,10 +16,13 @@ namespace classy_electronics
                 );
 
             Radionator myRadionator = new Radionator(
-    new BasicTurnTable(),
-    new BasicSpeaker(),
-    new BasicRadio()
-    ) ;
+                new BasicTurnTable(),
+                new BasicSpeaker(),
+                new BasicRadio()
+                );
+
+            myRadionator.Radio.AddFavorite(99.5);
+            myRadionator.Speaker.VolumeUp();
         }
     }
 }
